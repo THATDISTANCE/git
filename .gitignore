@@ -1,0 +1,5 @@
+# Project exclude paths
+/redis/target/
+/scala/target/
+/spark-core/target/
+/warehouse/target/
